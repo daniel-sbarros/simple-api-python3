@@ -27,7 +27,7 @@ python src/main.py
 ```
 
 ## Acessar a Api
-- Para acessar todos os dados da api utilize a url: http://127.0.0.1:5000/api/ 
+- Para acessar todos os dados da api utilize a url: http://127.0.0.1:5000/api
 - Para acessar um registro específico utilize a url: http://127.0.0.1:5000/api/1 > sendo o número 1 a id do item.
 
 ## Plugins Utilizados
